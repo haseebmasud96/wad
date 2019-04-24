@@ -1,2 +1,0 @@
-# wad
-Web Application Development
